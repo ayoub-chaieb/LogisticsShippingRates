@@ -1,3 +1,5 @@
+In this lab we have created a repository in our GitHub account with a README.md file and a License. We then edited the README file and added Code of Conduct, and Contribution Guidelines. Further, I commited these files to the repository. Finally, I added the Shipping logistics calculator file to a new branch, and merged it to the main branch using a Pull Request.
+
 Please consider the below factors while contributing
 
 Code Style:
